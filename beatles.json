@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg",
 		"name": "Please Please Me",
 		"tracks": [
@@ -20,6 +21,7 @@
 		]
 	},
 	{
+		"id": 2,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg",
 		"name": "With the Beatles",
 		"tracks": [
@@ -40,6 +42,7 @@
 		]
 	},
 	{
+		"id": 3,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg",
 		"name": "A Hard Day's Night",
 		"tracks": [
@@ -59,6 +62,7 @@
 		]
 	},
 	{
+		"id": 4,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/4/40/Beatlesforsale.jpg",
 		"name": "Beatles for Sale",
 		"tracks": [
@@ -79,6 +83,7 @@
 		]
 	},
 	{
+		"id": 5,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/3/3d/Help.jpg",
 		"name": "Help!",
 		"tracks": [
@@ -99,6 +104,7 @@
 		]
 	},
 	{
+		"id": 6,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg",
 		"name": "Rubber Soul",
 		"tracks": [
@@ -119,6 +125,7 @@
 		]
 	},
 	{
+		"id": 6,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/1/16/Revolver.jpg",
 		"name": "Revolver",
 		"tracks": [
@@ -139,6 +146,7 @@
 		]
 	},
 	{
+		"id": 7,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
 		"name": "Sgt. Pepper's Lonely Hearts Club Band",
 		"tracks": [
@@ -158,6 +166,7 @@
 		]
 	},
 	{
+		"id": 8,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/8/85/TheBeatlesMagicalMysteryTouralbumcover.jpg",
 		"name": "Magical Mystery Tour",
 		"tracks": [
@@ -175,6 +184,7 @@
 		]
 	},
 	{
+		"id": 9,
 		"cover": "http://www.beatlesinterviews.org/al10.jpg",
 		"name": "The Beatles (Album 1)",
 		"tracks": [
@@ -198,6 +208,7 @@
 		]
 	},
 	{
+		"id": 10,
 		"cover": "http://www.beatlesinterviews.org/al10.jpg",
 		"name": "The Beatles (Album 2)",
 		"tracks": [
@@ -217,6 +228,7 @@
 		]
 	},
 	{
+		"id": 11,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg",
 		"name": "Yellow Submarine",
 		"tracks": [
@@ -236,6 +248,7 @@
 		]
 	},
 	{
+		"id": 12,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
 		"name": "Abbey Road",
 		"tracks": [
@@ -259,6 +272,7 @@
 		]
 	},
 	{
+		"id": 13,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg",
 		"name": "Let It Be",
 		"tracks": [
@@ -277,6 +291,7 @@
 		]
 	},
 	{
+		"id": 14,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Beatles_-_Past_Masters_-_Volume_One.jpg",
 		"name": "Past Masters 1",
 		"tracks": [
@@ -300,6 +315,7 @@
 		]
 	},
 	{
+		"id": 15,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/1/14/The_Beatles_-_Past_Masters_-_Volume_Two.jpg",
 		"name": "Past Masters 2",
 		"tracks": [
